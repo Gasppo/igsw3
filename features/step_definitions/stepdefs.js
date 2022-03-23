@@ -7,7 +7,7 @@ Given('today is {string}', function (today) {
     this.today = today;
 });
 
-When('I ask whether it\'s Friday yet', function () {
+When('I ask whether it is Friday yet', function () {
     this.actualAnswer = isItFriday(this.today);
 });
 
