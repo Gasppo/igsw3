@@ -10,11 +10,6 @@ node
 # testing
 /coverage
 
-# production
-build
-/target
-src/styles/tailwind.css
-
 # response logging
 responses
 
